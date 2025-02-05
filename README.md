@@ -19,3 +19,7 @@ This project analyzes new and used car sales by month and year. The main goal is
 - A bar chart illustrating the difference in sales between new and used cars.
 - Used cars consistently show higher sales numbers compared to new cars.
 - The chart uses a stacked bar format for easy comparison.
+---
+If you need the dataset from this project, here is the link:  
+[MVA_Vehicle_Sales_Counts_by_Month_for_Calendar_Year_2002_through_December_2023.csv](https://github.com/Abupa/Portfolio-Project-Vehicle-Sales-/blob/main/MVA_Vehicle_Sales_Counts_by_Month_for_Calendar_Year_2002_through_December_2023.csv)
+
